@@ -1,6 +1,12 @@
-Thanks for downloading this template!
+# Welcome this is my Portfolio
 
-Template Name: My Portfolio
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+## Thank you for Visiting My Portfolio
+
+Here in this portfolio you are to expect:
+
+--My Skills
+
+--My Cv
+
+--my career work 
+
