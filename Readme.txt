@@ -1,21 +1,14 @@
-# **I, I'm Denis 👋 how are you**
-
-# Welcome to my Portfolio
+# **I, I'm Denis 👋 how are you,  Welcome to my Portfolio**
 
 ## Thank you for Visiting My Portfolio
 
 ## Here in this portfolio you are to expect:
 
---My Skills
+--My Skills, My Cv, My career work 
 
---My Cv
+**# My Skills**
 
---My career work 
-
-
-# My Skills
-
-am skilled in this:
+**am skilled in this:**
 
 1.Application development
 
@@ -26,7 +19,9 @@ am skilled in this:
 ## 🚀 About Me
 
 -- I build Android apps using Kotlin
+
 -- Passionate about AI and automation
+
 -- Currently working on UrbanLink2
 
 
